@@ -82,4 +82,4 @@ cada questão roda de forma independente.
 
 ## Licença
 
-MIT — veja o arquivo LICENSE.
+MIT - veja o arquivo LICENSE.
