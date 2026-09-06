@@ -57,7 +57,13 @@ pip install pyspark jupyter
 
 ## Como executar
 
+Abra o `imdb_analisys.ipynb` em um ambiente com suporte a Jupyter (VS Code com a
+extensão Python/Jupyter, JupyterLab ou Jupyter Notebook) e execute as células.
+
+Se for usar o Jupyter pela linha de comando:
+
 ```bash
+pip install notebook   # ou: pip install jupyterlab
 jupyter notebook imdb_analisys.ipynb
 ```
 
